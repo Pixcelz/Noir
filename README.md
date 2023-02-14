@@ -6,5 +6,5 @@ First, it is recommended to debloat Windows 11 to remove all the unnecessary fil
 ## 2. Windows Settings
 
 
-## 3. RoundedTB
-Download RoundedTB from the [Microsoft Store](https://www.microsoft.com/store/productId/9MTFTXSJ9M7F)
+## 3. Material Design Cursor (Light)
+Windows 11 Cursors Concept v2 by jepriCreations from [Deviant Art](https://www.deviantart.com/jepricreations/art/Windows-11-Cursors-Concept-v2-886489356)
